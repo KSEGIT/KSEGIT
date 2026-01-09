@@ -2,8 +2,6 @@
 
 I'm a Software Engineer with a strong foundation in cybersecurity, software development, and penetration testing. Currently working at **Firesand Ltd**, where I implement robust systems, contribute to secure software delivery, and support threat detection efforts.:contentReference[oaicite:1]{index=1}
 
----
-
 ## About Me
 
 I’m a **Cyber Security Software Engineer** with experience in:
@@ -14,8 +12,6 @@ I’m a **Cyber Security Software Engineer** with experience in:
 - Applying real-time analysis techniques to protect systems
 
 My work is grounded in industry best practices for secure coding, threat analysis, and continuous improvement of security controls.:contentReference[oaicite:2]{index=2}
-
----
 
 ## Skills & Expertise
 
@@ -34,21 +30,15 @@ My work is grounded in industry best practices for secure coding, threat analysi
 - Common pentesting toolkits
 - Programming languages relevant to security tooling
 
----
-
 ## Professional Experience
 
 **Software Engineer**  
 *Firesand Ltd*  
 Delivering software solutions while integrating security throughout the development lifecycle. Active contributor to projects involving threat reduction and secure system behaviour.:contentReference[oaicite:3]{index=3}
 
----
-
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/daniel-kiska
-
----
 
 ## What I’m Working On
 
@@ -56,8 +46,6 @@ I continuously explore and practice:
 - Advanced penetration testing methodologies
 - Secure architectures for cloud-native applications
 - Security automation and tooling
-
----
 
 ## Commits
 
