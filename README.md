@@ -56,3 +56,5 @@ I continuously explore and practice:
 - Advanced penetration testing methodologies
 - Secure architectures for cloud-native applications
 - Security automation and tooling
+
+![My GitHub Game](game.gif)
