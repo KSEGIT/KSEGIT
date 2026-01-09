@@ -57,4 +57,8 @@ I continuously explore and practice:
 - Secure architectures for cloud-native applications
 - Security automation and tooling
 
+---
+
+## Commits
+
 ![My GitHub Game](game.gif)
