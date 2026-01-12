@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a Software Engineer with a strong foundation in cybersecurity, software development, and penetration testing. Currently working at **Firesand Ltd**, where I implement robust systems, contribute to secure software delivery, and support threat detection efforts.:contentReference[oaicite:1]{index=1}
+I'm a Software Engineer with a strong foundation in cybersecurity, software development, and penetration testing. Currently working at **Firesand Ltd**, where I implement robust systems, contribute to secure software delivery, and support threat detection efforts.
 
 ## About Me
 
@@ -11,7 +11,7 @@ I’m a **Cyber Security Software Engineer** with experience in:
 - Collaborating across teams to enhance security posture
 - Applying real-time analysis techniques to protect systems
 
-My work is grounded in industry best practices for secure coding, threat analysis, and continuous improvement of security controls.:contentReference[oaicite:2]{index=2}
+My work is grounded in industry best practices for secure coding, threat analysis, and continuous improvement of security controls.
 
 ## Skills & Expertise
 
@@ -34,7 +34,7 @@ My work is grounded in industry best practices for secure coding, threat analysi
 
 **Software Engineer**  
 *Firesand Ltd*  
-Delivering software solutions while integrating security throughout the development lifecycle. Active contributor to projects involving threat reduction and secure system behaviour.:contentReference[oaicite:3]{index=3}
+Delivering software solutions while integrating security throughout the development lifecycle. Active contributor to projects involving threat reduction and secure system behaviour.
 
 ## Connect With Me
 
