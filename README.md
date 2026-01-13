@@ -30,6 +30,8 @@ My work is grounded in industry best practices for secure coding, threat analysi
 - Common pentesting toolkits
 - Programming languages relevant to security tooling
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,py,nodejs,aws,cpp,c#,git,unity,js,jquery,bootstrap,arduino,docker,php,html,css,mysql,mongodb,bash,linux,windows,ps,ai,wordpress,azure)](https://skillicons.dev)
+
 ## Professional Experience
 
 **Software Engineer**  
