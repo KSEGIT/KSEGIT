@@ -30,7 +30,7 @@ My work is grounded in industry best practices for secure coding, threat analysi
 - Common pentesting toolkits
 - Programming languages relevant to security tooling
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,py,fastapi,nodejs,aws,azure,cpp,qt,git,github,unity,js,vite,jquery,nodejs,npm,bootstrap,arduino,docker,php,html,css,mysql,mongodb,bash,linux,windows,ps,ai,wordpress,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,py,fastapi,nodejs,aws,azure,cpp,qt,git,github,unity,js,vite,jquery,nodejs,npm,bootstrap,arduino,docker,php,html,css,mysql,mongodb,bash,linux,windows,ps,ai,wordpress,visualstudio,vscode)](https://skillicons.dev)
 
 ## Professional Experience
 
