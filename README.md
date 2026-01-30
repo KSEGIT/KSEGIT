@@ -1,4 +1,4 @@
-# Hi!
+# Hi! :stars:
 
 I'm a Software Engineer with a strong foundation in cybersecurity, software development, and penetration testing. Currently working at **Firesand Ltd**, where I implement robust systems, contribute to secure software delivery, and support threat detection efforts.
 
